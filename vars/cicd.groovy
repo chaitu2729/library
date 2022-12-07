@@ -1,4 +1,4 @@
-def newDownloa(repo)
+def newDownload(repo)
 {
    git "https://github.com/intelliqittrainings/$(repo)"
 }
